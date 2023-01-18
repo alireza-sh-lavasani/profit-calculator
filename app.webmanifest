@@ -1,0 +1,14 @@
+{
+  "short_name": "Profit Calc",
+  "name": "Investment Profit Calculator",
+  "icons": [
+    {
+      "src": "assets/react.svg",
+      "type": "svg"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
